@@ -1,0 +1,8 @@
+{
+    "name": "HASSAM Card",
+    "content_in_root": false,
+    "render_readme": true,
+    "filename": "hassam-card.js",
+    "homeassistant": "2023.8.2",
+    "zip_release": false
+}
