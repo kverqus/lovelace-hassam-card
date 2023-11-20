@@ -8,6 +8,16 @@ const lang = {
     day: "dag",
     unit: "st"
   },
+
+  "PT": {
+    header: "Horario SSAM",
+    pickup: "Apanhar",
+    in: "em",
+    today: "hoje",
+    days: "dias",
+    day: "dia",
+    unit: "unidade"
+  },  
   "en-US": {
     header: "SSAM Schedule",
     pickup: "Pickup",
