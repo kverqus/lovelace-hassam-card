@@ -17,6 +17,15 @@ const lang = {
     day: "day",
     unit: ""
   },
+  "en-GB": {
+    header: "SSAM Schedule",
+    pickup: "Pickup",
+    in: "in",
+    today: "today",
+    days: "days",
+    day: "day",
+    unit: ""
+  },
 };
 
 class HASSAMCard extends HTMLElement {
@@ -58,7 +67,7 @@ class HASSAMCard extends HTMLElement {
       }
     </style>
     `;
-    let culture = navigator.language ? navigator.language : "sv-SE";
+    let culture = lang[navigator.language] ? navigator.language : "sv-SE";
 
     if (!this.content) {
       this.innerHTML = `
