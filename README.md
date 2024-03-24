@@ -1,4 +1,4 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2023?color=blue)
+![Maintenance](https://img.shields.io/maintenance/yes/2024?color=blue)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/kverqus/lovelace-hassam-card?color=blue)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-blue.svg)](https://github.com/hacs/integration)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -23,4 +23,6 @@ entity: sensor.ssam_schedule_<name>
 ```
 
 ## Screenshot
-![lovelace-hassam-card](https://github.com/kverqus/lovelace-hassam-card/assets/59644775/f9e8d74f-9374-4085-8675-1b90209b216b)
+Shows three different cards configured, one for each garbage bin.
+
+![bild](https://github.com/kverqus/lovelace-hassam-card/assets/59644775/e196c9dc-9fd1-48d6-bdf1-b9143215f896)
